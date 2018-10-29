@@ -1,0 +1,58 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Eason Whatsapp Sticker Collection ver1",
+      "publisher": "Tom Fong",
+      "tray_image_file": "01_Eason_smile.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Eason_smile.webp",
+          "emojis": ["😄","🙂"]
+        },
+        {
+          "image_file": "02_Eason_somekindof.webp",
+          "emojis": ["🤥","😕"]
+        },
+        {
+          "image_file": "03_Eason_hehe.webp",
+          "emojis": ["😏","😈"]
+        },
+        {
+          "image_file": "04_Eason_blackface.webp",
+          "emojis": ["🌚","😶"]
+        },
+        {
+          "image_file": "05_Eason_WTF.webp",
+          "emojis": ["🙀","😲"]
+        },
+        {
+          "image_file": "06_Eason_laughcry.webp",
+          "emojis": ["😂","🤣"]
+        },
+        {
+          "image_file": "07_Eason_evil.webp",
+          "emojis": ["😈","🤤"]
+        },
+        {
+          "image_file": "08_Eason_ahh.webp",
+          "emojis": ["😖","🥴"]
+        },
+        {
+          "image_file": "09_Eason_hohoho.webp",
+          "emojis": ["🤑","😏"]
+        },
+        {
+          "image_file": "10_Eason_sad.webp",
+          "emojis": ["☹","😞"]
+        }
+      ]
+    }
+  ]
+}
